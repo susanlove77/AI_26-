@@ -1,6 +1,6 @@
 # AI_26
 머신러닝 학습용 
-ssad
+
+project1 -> 미니 프로젝트 
 
 
-ddsa
